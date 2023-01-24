@@ -1,6 +1,6 @@
 import "./styles.css";
 import BuscarPokemon from "./components/BuscarPokemon";
-import TestRedux from "./components/TestRedux";
+// import TestRedux from "./components/TestRedux";
 import { QueryClientProvider, QueryClient } from "react-query";
 
 export default function App() {
