@@ -1,8 +1,6 @@
-
-
 /**
  * 
- * Extra Bonus: Crear un componente que contenga:
+ * Extra Bonus (NO OBLIGATORIO): Crear un componente que contenga:
  * - Un botón que despache una accion con un mensaje de prueba
  * - Trear el estado de redux donde deberia estar guardado el mensaje anterior
  * - Este componente debería poder mostrar el mensaje que guardamos 
